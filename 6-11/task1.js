@@ -1,4 +1,4 @@
-let month = prompt ('enter of your month birth') );
+let month = Number (prompt ('enter of your month birth'));
 
 switch (month) {
     case 1 :

@@ -5,5 +5,6 @@ for (let j = 1; j <= 4; j++) {
     document.write(x);
     x += 1;
   }
-  document.write('\n');
+  document.write("<br>");
 }
+
